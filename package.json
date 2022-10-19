@@ -24,7 +24,6 @@
   },
   "scripts": {
     "build": "webpack",
-    "startaarsta": "browser-sync -s -f --no-verify ./dist --host 192.168.4.42 --port 9000 --no-open",
     "dev": "webpack serve"
   },
   "dependencies": {}

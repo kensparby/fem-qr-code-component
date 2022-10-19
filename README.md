@@ -25,8 +25,8 @@ To run it yourself, clone this repo and run `yarn dev` from within its folder. Y
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/kensparby/fem-qr-code-component](https://github.com/kensparby/fem-qr-code-component)
+- Live Site URL: [https://kensparby-fem-qr-code-component.netlify.app/](https://kensparby-fem-qr-code-component.netlify.app/)
 
 ## My process
 
